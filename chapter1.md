@@ -1,3 +1,5 @@
-# First Chapter
+# அடிப்படை
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+
+நீங்கள் படைப்பதற்கு, அடியாய்  இருப்பது `அடிப்படை`
+
