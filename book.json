@@ -1,5 +1,9 @@
 
 { 
  "title": "கணினியியல் அறிமுகமும் அடிப்படையும் ",
- "description": "தமிழ்வழியில் ஓர் பயணம் " 
+ "description": "தமிழ்வழியில் ஓர் பயணம் " ,
+ 
+    "styles": {
+        "website": "styles/website.css",
+}
 }
