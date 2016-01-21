@@ -1,6 +1,6 @@
 # Summary
 
-* [அறிமுகம்](README.md)
-* [அடிப்படை](chapter1.md)
-* [நிலை](chapter2.md)
+* [அடிப்படை](Basics\README.md)
+    * [புள்ளி -சின்னம்](Basics\chapter1.md)
+    * [நிலை](Basics\chapter2.md)
 
