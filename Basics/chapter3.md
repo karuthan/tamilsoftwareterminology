@@ -18,3 +18,5 @@
 - occur = நிகழ் 
 - occurrence = நிகழ்வு 
 - probability = நிகழ்தகவு 
+
+
